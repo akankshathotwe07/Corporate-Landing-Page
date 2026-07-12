@@ -63,39 +63,7 @@ src/
 
 ---
 
-## ⚙️ Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/primeedge.git
-```
-
-Go to project directory
-
-```bash
-cd primeedge
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start development server
-
-```bash
-npm run dev
-```
-
-Open
-
-```
-http://localhost:3000
-```
-
----
 
 ## 📧 Contact Form
 
