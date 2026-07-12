@@ -14,7 +14,8 @@ const PROJECT_IAMGES = [
 
 const Project = () => {
   return (
-    <div className="pt-16 pb-16 bg-black">
+    <div id="portfolio"
+     className="pt-16 pb-16 bg-black">
       <h2 className="text-[#b96974] text-lg text-center font-medium tracking-widest">
         Portfolio
       </h2>

@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-<div className="w-full h-[80vh] bg-[#1f242c] flex justify-center flex-col">
+<div  id="home" className="w-full h-[80vh] bg-[#1f242c] flex justify-center flex-col">
   <div className="w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-4 items-center">
 
         {/* Text Content */}

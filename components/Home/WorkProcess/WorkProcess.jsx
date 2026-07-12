@@ -3,7 +3,8 @@ import WorkProcessCard from "./WorkProcessCard";
 
 const WorkProcess = () => {
   return (
-    <div className="pt-24 pb-24 bg-white">
+    <div  id="work"
+    className="pt-24 pb-24 bg-white">
       <h1 className="text-[#b96974] text-lg text-center font-medium tracking-widest">
         Work Process
       </h1>

@@ -3,7 +3,8 @@ import BlogCard from "./BlogCard";
 
 const Blog = () => {
   return (
-    <div className="pt-16 pb-16 bg-white">
+    <div  id="blog"
+     className="pt-16 pb-16 bg-white">
       <h2 className="text-[#b96974] text-lg text-center font-medium tracking-widest">
         Blog
       </h2>
