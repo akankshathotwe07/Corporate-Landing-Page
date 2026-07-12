@@ -1,36 +1,150 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 PrimeEdge - Modern Business Landing Page
 
-## Getting Started
+A modern, responsive, and visually appealing business website built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project showcases a premium UI with smooth animations, interactive sections, and a fully functional contact form powered by **EmailJS**.
 
-First, run the development server:
+---
+
+
+---
+
+## ✨ Features
+
+- 🎨 Modern & Responsive UI Design
+- ⚡ Built with Next.js 15 & TypeScript
+- 🎯 Pixel Perfect Layout
+- 📱 Fully Mobile Responsive
+- ✨ Smooth AOS Scroll Animations
+- 🎭 Interactive Hover Effects
+- 🖼️ Portfolio Showcase
+- 💼 Services Section
+- 📝 Latest Blog Section
+- 📞 Contact Form with EmailJS
+- 🔝 Scroll-to-Top Button
+- 🚀 Optimized Performance
+- 🌙 Clean & Professional Design
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- React.js
+- Tailwind CSS
+- EmailJS
+- AOS (Animate On Scroll)
+- React Icons
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── app/
+├── components/
+│   ├── Hero
+│   ├── About
+│   ├── Services
+│   ├── Work
+│   ├── Portfolio
+│   ├── Blog
+│   ├── Contact
+│   ├── Footer
+│   └── Navigation
+│
+├── constants/
+├── public/
+│   └── images/
+│
+└── styles/
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/primeedge.git
+```
+
+Go to project directory
+
+```bash
+cd primeedge
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📧 Contact Form
 
-To learn more about Next.js, take a look at the following resources:
+The contact section is integrated with **EmailJS**, allowing visitors to send messages directly without requiring a backend server.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📱 Responsive Design
 
-## Deploy on Vercel
+Optimized for:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Tablet
+- 📲 Mobile
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🚀 Future Improvements
+
+- Dark Mode
+- CMS Integration
+- Blog Details Page
+- Testimonials Section
+- Multi-language Support
+- SEO Enhancements
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+### **Akanksha Thotwe**
+
+**MCA Student | Full Stack Developer**
+
+---
+
+### ⭐ If you like this project, don't forget to give it a star!
